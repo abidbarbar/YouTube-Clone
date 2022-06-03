@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto:wght@400;500;700&display=swap');
+
+p {
+    font-family: 'Roboto', Arial;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+body {
+    height: 1000px;
+    margin: 0;
+    padding-top: 80px;
+    padding-left: 95px;
+    padding-right: 25px;
+    background-color: rgb(248, 248, 248);
+}
+
+/* @media screen and (min-width: 1200.1px) {
+    body {
+        margin-left: 168px;
+    }
+} */
